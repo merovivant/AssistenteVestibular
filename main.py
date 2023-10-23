@@ -20,7 +20,7 @@ history = StreamlitChatMessageHistory(key="messages")
 memory = ConversationBufferMemory(chat_memory=history)
 
 # Acessando os embeddings para busca contextual pelas informações do vestibular
-embeddings = OpenAIEmbeddings(openai_api_key="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")
+embeddings = OpenAIEmbeddings(openai_api_key=st.secrets["OPENAI_API_KEY"])
 docsearch = Pinecone.from_existing_index("unicampresolucao", embeddings)
 
 # Set up the LLMChain, passing in memory
