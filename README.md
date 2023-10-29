@@ -6,7 +6,7 @@ Com o advento dos LLMs (Largue Language Models), as formas de interação com os
 
 Apesar dos novos modelos baseados em apredizagem de máquina e processamento de linguagem natural corrigirem muitos dos problemas encontrados nos chatbots mais antigos, eles ainda existem algumas limitações. Esses modelos são treinados em um conjunto de dados específico, o qual apesar de massivamente grande ainda é limitado e finito. A resposta pra alguma pergunta específica pode não estar no conjunto de dados utilizado para treinar o modelo, como no exemplo a seguir:
 
-![ChatGPT respondendo que não possui informação sobre a data do vestibular da Unicamp](Imagens/screenshot1.jpeg)
+![ChatGPT respondendo que não possui informação sobre a data do vestibular da Unicamp](Imagens/screenshot1.png)
 
 Para corrigir esse problema, esse projeto irá utilizar um paradigma chamado RAG (Retrieval Augmented Genetarion). Esse paradigma será o responsável por utilizando da fonte apropriada, recuperar de um documento específico informações relevantes para responder a questão do usuário. Com isso, essas informações relevantes são incluídas junto do prompt e o modelo de linguagem se torna mais apto para responder as perguntas no caso de uso específico em que está sendo empregado.
 
@@ -26,3 +26,6 @@ A implementação do projeto foi apoiada pelas seguintes bibliotecas e fonte de 
 O LangChain foi utilizado para integração de todas as partes incluindo bibliotecas e APIs utilizadas no projeto, desde a recuperação, carregamento e transformação dos documentos de fonte de dados, integração com os modelos da OpenAI de Embeddings e geração de texto, recuperação contextual dos vetores armazenados no Pinecone e integração com o Streamlit na construção da interface gráfica.
 
 [Streamlit](https://streamlit.io/): Biblioteca open-source voltada para construção facilitada de interfaces gráficas na forma de aplicações web apoiadas por machine learning e ciência de dados. Também disponibiliza o Streamlit Community Cloud para deploy e gerenciamento gratuíto dos aplicativos construídos com a biblioteca.
+
+## Transformação do documento
+As informações contidas na [página web](https://www.pg.unicamp.br/norma/31594/0) do documento fonte foram extraídas e transformadas em um arquivo de texto markdown, no qual foram acrescidas algumas tags para hierarquização de texto e devida identificação de capítulos e artigos do documento original. Algumas informações estavam contidas em formato tabular, tornando necessária a extração dessas informações e transformação para texto. Essas transformações foram feitas no notebook 
