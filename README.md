@@ -28,4 +28,8 @@ O LangChain foi utilizado para integração de todas as partes incluindo bibliot
 [Streamlit](https://streamlit.io/): Biblioteca open-source voltada para construção facilitada de interfaces gráficas na forma de aplicações web apoiadas por machine learning e ciência de dados. Também disponibiliza o Streamlit Community Cloud para deploy e gerenciamento gratuíto dos aplicativos construídos com a biblioteca.
 
 ## Transformação do documento
-As informações contidas na [página web](https://www.pg.unicamp.br/norma/31594/0) do documento fonte foram extraídas e transformadas em um arquivo de texto markdown, no qual foram acrescidas algumas tags para hierarquização de texto e devida identificação de capítulos e artigos do documento original. Algumas informações estavam contidas em formato tabular, tornando necessária a extração dessas informações e transformação para texto. Essas transformações foram feitas no notebook 
+As informações contidas na [página web](https://www.pg.unicamp.br/norma/31594/0) do documento fonte foram extraídas e transformadas em um arquivo de texto markdown, no qual foram acrescidas algumas tags para hierarquização de texto e devida identificação de capítulos e artigos do documento original. Algumas informações estavam contidas em formato tabular, tornando necessária a extração dessas informações e transformação para texto. Essas transformações foram feitas no notebook disponiblizado em [Nootebooks/anexos.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/anexos.ipynb).
+
+Foram utilizados duas classes disponiblizadas pelo LangChain para fazer a divisão do texto, primeiramente respeitando a semântica do arquivo markdown, para então dividir os trechos maiores em paragráfos ou sentenças. Esse processo, juntamente com o acesso a API da Pinecone está disponível em [Notebooks/embeddings.ipynb]. Nele, os vetores foram criados e armazenados no serviço de nuvem da Pinecone.
+
+
