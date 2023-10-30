@@ -16,8 +16,8 @@ A seguir está a captura de tela conseguida após o desenvolvimento do projeto:
 ## Implementação
 A implementação do projeto foi apoiada pelas seguintes bibliotecas e fonte de dados:
 
-### Fonte de dados
-[Resolução GR-031/2023, de 13/07/2023](https://www.pg.unicamp.br/norma/31594/0): Dispõe sobre o Vestibular Unicamp 2024 para vagas no ensino de Graduação
+### Fonte de dados unicamp
+[Resolução GR-031/2023, de 13/07/2023](https://www.pg..br/norma/31594/0): Dispõe sobre o Vestibular Unicamp 2024 para vagas no ensino de Graduação
 
 ### Bibliotecas
 [Pinecone](https://www.pinecone.io/): Base de dados gratuíta que possibilita armazenamento de vetores dos embeddings gerados pela OpenAI, apoiando a consulta contextual por meio da query e retornando os vetores mais relevantes.
@@ -30,6 +30,7 @@ O LangChain foi utilizado para integração de todas as partes incluindo bibliot
 ## Transformação do documento
 As informações contidas na [página web](https://www.pg.unicamp.br/norma/31594/0) do documento fonte foram extraídas e transformadas em um arquivo de texto markdown, no qual foram acrescidas algumas tags para hierarquização de texto e devida identificação de capítulos e artigos do documento original. Algumas informações estavam contidas em formato tabular, tornando necessária a extração dessas informações e transformação para texto. Essas transformações foram feitas no notebook disponiblizado em [Nootebooks/anexos.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/anexos.ipynb).
 
-Foram utilizados duas classes disponiblizadas pelo LangChain para fazer a divisão do texto, primeiramente respeitando a semântica do arquivo markdown, para então dividir os trechos maiores em paragráfos ou sentenças. Esse processo, juntamente com o acesso a API da Pinecone está disponível em [Notebooks/embeddings.ipynb]. Nele, os vetores foram criados e armazenados no serviço de nuvem da Pinecone.
+Foram utilizados duas classes disponiblizadas pelo LangChain para fazer a divisão do texto, primeiramente respeitando a semântica do arquivo markdown, para então dividir os trechos maiores em paragráfos ou sentenças. Esse processo, juntamente com o acesso a API da Pinecone está disponível em [Notebooks/embeddings.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/embeddings.ipynb). Nele, os vetores foram criados e armazenados no serviço de nuvem da Pinecone.
+
 
 
