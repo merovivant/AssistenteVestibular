@@ -583,89 +583,318 @@ Esta Resolução entra em vigor na data de sua publicação, ficando revogadas a
 
  
 # ANEXO I
- O curso de Administração (Noturno) possui um total de 180 vagas regulares, das quais 143 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 94 e 116 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 27 e 49.
- O curso de Administração Pública (Noturno) possui um total de 60 vagas regulares, das quais 47 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 31 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Arquitetura e Urbanismo (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Artes Cênicas (Integral)** possui um total de 25 vagas regulares, das quais 25 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 9.
- O curso de Artes Visuais (Integral)** possui um total de 30 vagas regulares, das quais 30 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 22 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 11.
- O curso de Ciência da Computação (Noturno) possui um total de 50 vagas regulares, das quais 40 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 26 e 32 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
- O curso de Ciências Biológicas - Licenciatura (Noturno) possui um total de 45 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
- O curso de Ciências Biológicas (Integral) possui um total de 45 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
- O curso de Ciências do Esporte (Integral) possui um total de 60 vagas regulares, das quais 46 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 37 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Ciências Econômicas (Integral) possui um total de 70 vagas regulares, das quais 56 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 37 e 45 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
- O curso de Ciências Econômicas (Noturno) possui um total de 35 vagas regulares, das quais 28 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 18 e 23 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 10.
- O curso de Ciências Sociais (Integral) possui um total de 55 vagas regulares, das quais 44 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
- O curso de Ciências Sociais (Noturno) possui um total de 55 vagas regulares, das quais 44 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
- O curso de Comunicacão Social - Midialogia (Integral) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Curso 51: Engenharia Física/ Física/ Física Médica e Biomédica/ Matemática/ Matemática Aplicada e Computacional (Integral) possui um total de 155 vagas regulares, das quais 109 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 67 e 86 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 23 e 42.
- O curso de Dança (Integral)** possui um total de 25 vagas regulares, das quais 25 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 9.
- O curso de Educação Física (Integral) possui um total de 50 vagas regulares, das quais 40 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 26 e 32 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
- O curso de Educação Física (Noturno) possui um total de 50 vagas regulares, das quais 40 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 26 e 32 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
- O curso de Enfermagem (Integral) possui um total de 40 vagas regulares, das quais 30 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 24 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
- O curso de Engenharia Agrícola (Integral) possui um total de 70 vagas regulares, das quais 56 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 37 e 45 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
- O curso de Engenharia Ambiental (Noturno) possui um total de 60 vagas regulares, das quais 44 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 28 e 35 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Engenharia Civil (Integral) possui um total de 80 vagas regulares, das quais 62 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 40 e 50 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 12 e 22.
- O curso de Engenharia de Alimentos (Integral) possui um total de 80 vagas regulares, das quais 60 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 38 e 48 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 12 e 22.
- O curso de Engenharia de Alimentos (Noturno) possui um total de 35 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 14 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 10.
- O curso de Engenharia de Computação (Integral) possui um total de 90 vagas regulares, das quais 63 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 39 e 49 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 14 e 24.
- O curso de Engenharia de Controle e Automação (Noturno) possui um total de 50 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 25 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
- O curso de Engenharia de Manufatura (Integral) possui um total de 60 vagas regulares, das quais 45 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Engenharia de Produção (Integral) possui um total de 60 vagas regulares, das quais 45 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Engenharia de Telecomunicações (Integral) possui um total de 55 vagas regulares, das quais 37 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 22 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
- O curso de Engenharia de Transportes (Noturno) possui um total de 55 vagas regulares, das quais 37 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 22 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
- O curso de Engenharia Elétrica (Integral) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
- O curso de Engenharia Elétrica (Noturno) possui um total de 30 vagas regulares, das quais 21 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 13 e 16 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Engenharia Mecânica (Integral) possui um total de 140 vagas regulares, das quais 103 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 65 e 82 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 21 e 38.
- O curso de Engenharia Química (Integral) possui um total de 60 vagas regulares, das quais 45 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Engenharia Química (Noturno) possui um total de 40 vagas regulares, das quais 29 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 18 e 23 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
- O curso de Estatística (Integral) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
- O curso de Estudos Literários (Integral) possui um total de 20 vagas regulares, das quais 16 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 11 e 13 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 3 e 5.
- O curso de Farmácia (Integral) possui um total de 40 vagas regulares, das quais 32 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
- O curso de Filosofia (Integral) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Física - Licenciatura (Noturno) possui um total de 40 vagas regulares, das quais 28 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 17 e 22 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
- O curso de Fonoaudiologia (Integral) possui um total de 30 vagas regulares, das quais 22 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 14 e 17 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Geografia (Integral) possui um total de 20 vagas regulares, das quais 16 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 11 e 13 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 3 e 5.
- O curso de Geografia (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Geologia (Integral)  possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de História (Integral) possui um total de 40 vagas regulares, das quais 32 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
- O curso de Letras - Licenciatura (Integral) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Letras - Licenciatura (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Licenciatura Integrada Química/Física (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
- O curso de Linguística (Integral) possui um total de 20 vagas regulares, das quais 16 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 11 e 13 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 3 e 5.
- O curso de Matemática - Licenciatura (Noturno) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
- O curso de Medicina (Integral) possui um total de 110 vagas regulares, das quais 86 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 56 e 69 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 17 e 30.
- O curso de Música Erudita: Clarineta (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Contrabaixo (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Flauta (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Percussão (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Piano (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Trombone (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Trompete (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Viola (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Violão (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Violino (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Violoncelo (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Erudita: Voz (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Bateria (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Contrabaixo (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Guitarra (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Piano (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Saxofone (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Violão (Integral) possui um total de 1 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música Popular: Voz (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Música: Composição (Integral)** possui um total de 5 vagas regulares, das quais 5 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 3 e 4 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 1 e 2.
- O curso de Música: Licenciatura (Integral)** possui um total de 16 vagas regulares, das quais 14 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 8 e 10 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 4 e 6.
- O curso de Música: Regência (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
- O curso de Nutrição (Integral) possui um total de 60 vagas regulares, das quais 46 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 37 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
- O curso de Odontologia (Integral) possui um total de 80 vagas regulares, das quais 60 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 38 e 48 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 12 e 22.
- O curso de Pedagogia - Licenciatura (Integral) possui um total de 45 vagas regulares, das quais 36 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 24 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
- O curso de Pedagogia - Licenciatura (Noturno) possui um total de 45 vagas regulares, das quais 36 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 24 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
- O curso de Química (Integral) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
- O curso de Química Tecnológica (Noturno) possui um total de 40 vagas regulares, das quais 28 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 17 e 22 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
- O curso de Sistemas de Informação (Integral) possui um total de 50 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 25 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
- O curso de Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno) possui um total de 50 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 25 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
- O curso de Tecnologia em Saneamento Ambiental (Noturno) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+## Vagas do curso Administração (Noturno)
+O curso de Administração (Noturno) possui um total de 180 vagas regulares, das quais 143 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 94 e 116 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 27 e 49.
+
+
+## Vagas do curso Administração Pública (Noturno)
+O curso de Administração Pública (Noturno) possui um total de 60 vagas regulares, das quais 47 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 31 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Arquitetura e Urbanismo (Noturno)
+O curso de Arquitetura e Urbanismo (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Artes Cênicas (Integral)**
+O curso de Artes Cênicas (Integral)** possui um total de 25 vagas regulares, das quais 25 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 9.
+
+
+## Vagas do curso Artes Visuais (Integral)**
+O curso de Artes Visuais (Integral)** possui um total de 30 vagas regulares, das quais 30 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 22 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 11.
+
+
+## Vagas do curso Ciência da Computação (Noturno)
+O curso de Ciência da Computação (Noturno) possui um total de 50 vagas regulares, das quais 40 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 26 e 32 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
+
+
+## Vagas do curso Ciências Biológicas - Licenciatura (Noturno)
+O curso de Ciências Biológicas - Licenciatura (Noturno) possui um total de 45 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
+
+
+## Vagas do curso Ciências Biológicas (Integral)
+O curso de Ciências Biológicas (Integral) possui um total de 45 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
+
+
+## Vagas do curso Ciências do Esporte (Integral)
+O curso de Ciências do Esporte (Integral) possui um total de 60 vagas regulares, das quais 46 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 37 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Ciências Econômicas (Integral)
+O curso de Ciências Econômicas (Integral) possui um total de 70 vagas regulares, das quais 56 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 37 e 45 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Vagas do curso Ciências Econômicas (Noturno)
+O curso de Ciências Econômicas (Noturno) possui um total de 35 vagas regulares, das quais 28 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 18 e 23 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 10.
+
+
+## Vagas do curso Ciências Sociais (Integral)
+O curso de Ciências Sociais (Integral) possui um total de 55 vagas regulares, das quais 44 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
+
+
+## Vagas do curso Ciências Sociais (Noturno)
+O curso de Ciências Sociais (Noturno) possui um total de 55 vagas regulares, das quais 44 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
+
+
+## Vagas do curso Comunicacão Social - Midialogia (Integral)
+O curso de Comunicacão Social - Midialogia (Integral) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Curso 51: Engenharia Física/ Física/ Física Médica e Biomédica/ Matemática/ Matemática Aplicada e Computacional (Integral)
+O curso de Curso 51: Engenharia Física/ Física/ Física Médica e Biomédica/ Matemática/ Matemática Aplicada e Computacional (Integral) possui um total de 155 vagas regulares, das quais 109 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 67 e 86 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 23 e 42.
+
+
+## Vagas do curso Dança (Integral)**
+O curso de Dança (Integral)** possui um total de 25 vagas regulares, das quais 25 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 9.
+
+
+## Vagas do curso Educação Física (Integral)
+O curso de Educação Física (Integral) possui um total de 50 vagas regulares, das quais 40 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 26 e 32 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
+
+
+## Vagas do curso Educação Física (Noturno)
+O curso de Educação Física (Noturno) possui um total de 50 vagas regulares, das quais 40 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 26 e 32 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
+
+
+## Vagas do curso Enfermagem (Integral)
+O curso de Enfermagem (Integral) possui um total de 40 vagas regulares, das quais 30 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 24 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
+
+
+## Vagas do curso Engenharia Agrícola (Integral)
+O curso de Engenharia Agrícola (Integral) possui um total de 70 vagas regulares, das quais 56 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 37 e 45 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Vagas do curso Engenharia Ambiental (Noturno)
+O curso de Engenharia Ambiental (Noturno) possui um total de 60 vagas regulares, das quais 44 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 28 e 35 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Engenharia Civil (Integral)
+O curso de Engenharia Civil (Integral) possui um total de 80 vagas regulares, das quais 62 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 40 e 50 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 12 e 22.
+
+
+## Vagas do curso Engenharia de Alimentos (Integral)
+O curso de Engenharia de Alimentos (Integral) possui um total de 80 vagas regulares, das quais 60 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 38 e 48 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 12 e 22.
+
+
+## Vagas do curso Engenharia de Alimentos (Noturno)
+O curso de Engenharia de Alimentos (Noturno) possui um total de 35 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 14 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 10.
+
+
+## Vagas do curso Engenharia de Computação (Integral)
+O curso de Engenharia de Computação (Integral) possui um total de 90 vagas regulares, das quais 63 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 39 e 49 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 14 e 24.
+
+
+## Vagas do curso Engenharia de Controle e Automação (Noturno)
+O curso de Engenharia de Controle e Automação (Noturno) possui um total de 50 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 25 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
+
+
+## Vagas do curso Engenharia de Manufatura (Integral)
+O curso de Engenharia de Manufatura (Integral) possui um total de 60 vagas regulares, das quais 45 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Engenharia de Produção (Integral)
+O curso de Engenharia de Produção (Integral) possui um total de 60 vagas regulares, das quais 45 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Engenharia de Telecomunicações (Integral)
+O curso de Engenharia de Telecomunicações (Integral) possui um total de 55 vagas regulares, das quais 37 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 22 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
+
+
+## Vagas do curso Engenharia de Transportes (Noturno)
+O curso de Engenharia de Transportes (Noturno) possui um total de 55 vagas regulares, das quais 37 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 22 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 15.
+
+
+## Vagas do curso Engenharia Elétrica (Integral)
+O curso de Engenharia Elétrica (Integral) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Vagas do curso Engenharia Elétrica (Noturno)
+O curso de Engenharia Elétrica (Noturno) possui um total de 30 vagas regulares, das quais 21 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 13 e 16 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Engenharia Mecânica (Integral)
+O curso de Engenharia Mecânica (Integral) possui um total de 140 vagas regulares, das quais 103 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 65 e 82 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 21 e 38.
+
+
+## Vagas do curso Engenharia Química (Integral)
+O curso de Engenharia Química (Integral) possui um total de 60 vagas regulares, das quais 45 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 29 e 36 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Engenharia Química (Noturno)
+O curso de Engenharia Química (Noturno) possui um total de 40 vagas regulares, das quais 29 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 18 e 23 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
+
+
+## Vagas do curso Estatística (Integral)
+O curso de Estatística (Integral) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Vagas do curso Estudos Literários (Integral)
+O curso de Estudos Literários (Integral) possui um total de 20 vagas regulares, das quais 16 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 11 e 13 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 3 e 5.
+
+
+## Vagas do curso Farmácia (Integral)
+O curso de Farmácia (Integral) possui um total de 40 vagas regulares, das quais 32 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
+
+
+## Vagas do curso Filosofia (Integral)
+O curso de Filosofia (Integral) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Física - Licenciatura (Noturno)
+O curso de Física - Licenciatura (Noturno) possui um total de 40 vagas regulares, das quais 28 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 17 e 22 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
+
+
+## Vagas do curso Fonoaudiologia (Integral)
+O curso de Fonoaudiologia (Integral) possui um total de 30 vagas regulares, das quais 22 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 14 e 17 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Geografia (Integral)
+O curso de Geografia (Integral) possui um total de 20 vagas regulares, das quais 16 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 11 e 13 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 3 e 5.
+
+
+## Vagas do curso Geografia (Noturno)
+O curso de Geografia (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Geologia (Integral) 
+O curso de Geologia (Integral)  possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso História (Integral)
+O curso de História (Integral) possui um total de 40 vagas regulares, das quais 32 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 21 e 26 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
+
+
+## Vagas do curso Letras - Licenciatura (Integral)
+O curso de Letras - Licenciatura (Integral) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Letras - Licenciatura (Noturno)
+O curso de Letras - Licenciatura (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Licenciatura Integrada Química/Física (Noturno)
+O curso de Licenciatura Integrada Química/Física (Noturno) possui um total de 30 vagas regulares, das quais 24 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 16 e 19 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 5 e 8.
+
+
+## Vagas do curso Linguística (Integral)
+O curso de Linguística (Integral) possui um total de 20 vagas regulares, das quais 16 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 11 e 13 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 3 e 5.
+
+
+## Vagas do curso Matemática - Licenciatura (Noturno)
+O curso de Matemática - Licenciatura (Noturno) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Vagas do curso Medicina (Integral)
+O curso de Medicina (Integral) possui um total de 110 vagas regulares, das quais 86 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 56 e 69 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 17 e 30.
+
+
+## Vagas do curso Música Erudita: Clarineta (Integral)
+O curso de Música Erudita: Clarineta (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Contrabaixo (Integral)
+O curso de Música Erudita: Contrabaixo (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Flauta (Integral)
+O curso de Música Erudita: Flauta (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Percussão (Integral)
+O curso de Música Erudita: Percussão (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Piano (Integral)
+O curso de Música Erudita: Piano (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Trombone (Integral)
+O curso de Música Erudita: Trombone (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Trompete (Integral)
+O curso de Música Erudita: Trompete (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Viola (Integral)
+O curso de Música Erudita: Viola (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Violão (Integral)
+O curso de Música Erudita: Violão (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Violino (Integral)
+O curso de Música Erudita: Violino (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Violoncelo (Integral)
+O curso de Música Erudita: Violoncelo (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Erudita: Voz (Integral)
+O curso de Música Erudita: Voz (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Bateria (Integral)
+O curso de Música Popular: Bateria (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Contrabaixo (Integral)
+O curso de Música Popular: Contrabaixo (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Guitarra (Integral)
+O curso de Música Popular: Guitarra (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Piano (Integral)
+O curso de Música Popular: Piano (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Saxofone (Integral)
+O curso de Música Popular: Saxofone (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Violão (Integral)
+O curso de Música Popular: Violão (Integral) possui um total de 1 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música Popular: Voz (Integral)
+O curso de Música Popular: Voz (Integral) possui um total de 2 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Música: Composição (Integral)**
+O curso de Música: Composição (Integral)** possui um total de 5 vagas regulares, das quais 5 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 3 e 4 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 1 e 2.
+
+
+## Vagas do curso Música: Licenciatura (Integral)**
+O curso de Música: Licenciatura (Integral)** possui um total de 16 vagas regulares, das quais 14 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 8 e 10 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 4 e 6.
+
+
+## Vagas do curso Música: Regência (Integral)
+O curso de Música: Regência (Integral) possui um total de 3 vagas regulares, das quais todas são oferecidas pelo vestibular da Unicamp na modalidade de ampla concorrência. Este curso não possui reservas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as).
+
+## Vagas do curso Nutrição (Integral)
+O curso de Nutrição (Integral) possui um total de 60 vagas regulares, das quais 46 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 37 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 9 e 16.
+
+
+## Vagas do curso Odontologia (Integral)
+O curso de Odontologia (Integral) possui um total de 80 vagas regulares, das quais 60 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 38 e 48 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 12 e 22.
+
+
+## Vagas do curso Pedagogia - Licenciatura (Integral)
+O curso de Pedagogia - Licenciatura (Integral) possui um total de 45 vagas regulares, das quais 36 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 24 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
+
+
+## Vagas do curso Pedagogia - Licenciatura (Noturno)
+O curso de Pedagogia - Licenciatura (Noturno) possui um total de 45 vagas regulares, das quais 36 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 24 e 29 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 7 e 12.
+
+
+## Vagas do curso Química (Integral)
+O curso de Química (Integral) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Vagas do curso Química Tecnológica (Noturno)
+O curso de Química Tecnológica (Noturno) possui um total de 40 vagas regulares, das quais 28 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 17 e 22 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 6 e 11.
+
+
+## Vagas do curso Sistemas de Informação (Integral)
+O curso de Sistemas de Informação (Integral) possui um total de 50 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 25 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
+
+
+## Vagas do curso Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno)
+O curso de Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno) possui um total de 50 vagas regulares, das quais 33 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 19 e 25 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 8 e 14.
+
+
+## Vagas do curso Tecnologia em Saneamento Ambiental (Noturno)
+O curso de Tecnologia em Saneamento Ambiental (Noturno) possui um total de 70 vagas regulares, das quais 49 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 30 e 38 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 11 e 19.
+
+
+## Total de Vagas
  No total são oferecidas 3340 vagas regulares, das quais 2537 são oferecidas pelo vestibular da Unicamp. O número de vagas para ampla concorrência pode variar entre 1633 e 2021 vagas. O número de vagas reservadas para candidatos(as) autodeclarados(as) pretos(as) e pardos(as) pode variar entre 516 e 904.
+
+
 
 # ANEXO II - PROGRAMA DAS PROVAS
 
@@ -841,19 +1070,35 @@ Espera-se que o candidato seja capaz de descrever os elementos fundamentais do t
 
 ### RELAÇÃO DE LIVROS 
 
+#### Gêneros
 As obras obrigatórias do vestibular abordam os gêneros: Poesia, Conto, Romance, Carta/Relato de Viagem. 
 O gênero de Poesia possui as seguintes obras: 10 canções escolhidas, Tarde. 
 O gênero de Conto possui as seguintes obras: Seminário dos ratos, Olhos d´água. 
 O gênero de Romance possui as seguintes obras: Alice no país das maravilhas, O Ateneu, Niketche – uma História de Poligamia, Casa Velha. 
 A Carta de Achamento a el-rei D. Manuel é a única obra do gênero de Carta/Relato de Viagem. 
 
-A obra Tarde do autor(a) Olavo Bilac deve ser lido(s) o(s) trecho(s) Obra completa disponível em Obra de domínio público.
-A obra Seminário dos ratos do autor(a) Lygia Fagundes Telles deve(m) ser lido(s) o(s) trecho(s) Conto “Seminários dos ratos”  disponível em São Paulo: Companhia das Letras, 2009.
+#### Tarde
+Na obra Tarde do autor(a) Olavo Bilac deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em Obra de domínio público.
+
+#### Seminário dos ratos
+Na obra Seminário dos ratos do autor(a) Lygia Fagundes Telles deve(m) ser lido(s) o(s) trecho(s) Conto “Seminários dos ratos”  disponível em São Paulo: Companhia das Letras, 2009.
+
+#### Olhos d´água
 Na obra Olhos d´água do autor(a) Conceição Evaristo deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em Rio de Janeiro: Pallas: Fundação Biblioteca Nacional, 2016.
+
+#### Alice no país das maravilhas
 Na obra Alice no país das maravilhas do autor(a) Lewis Carrol deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em Selecionar qualquer tradução da obra, mas não adaptações.
+
+#### O Ateneu
 Na obra O Ateneu do autor(a) Raul Pompéia deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em Obra de domínio público.
+
+#### Niketche – uma História de Poligamia
 Na obra Niketche – uma História de Poligamia do autor(a) Paulina Chiziane deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em São Paulo: Companhia das Letras, 2004.
+
+#### Casa Velha
 Na obra Casa Velha do autor(a) Machado de Assis deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em Obra de domínio público.
+
+#### Carta de Achamento a el-rei D. Manuel
 Na obra Carta de Achamento a el-rei D. Manuel do autor(a) Pero Vaz de Caminha deve(m) ser lido(s) o(s) trecho(s) Obra completa disponível em Obra de domínio público.
 
 Obras de domínio público podem ser localizadas no site http://www.dominiopublico.gov.br
@@ -2084,841 +2329,260 @@ O Vídeo III não deve ultrapassar 500MB ou 6 minutos de duração.
 
 # ANEXO III
 
- 
+## Administração (Noturno) (B)
+O curso de Administração (Noturno) (B) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática terão peso de valor igual a 3. A(s) provas de História, Geografia terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-Área
+## Administração Pública (Noturno) (B)
+O curso de Administração Pública (Noturno) (B) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, História, Geografia terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-Curso
+## Arquitetura e Urbanismo (Noturno) (A)
+O curso de Arquitetura e Urbanismo (Noturno) (A) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, com a nota mínima de 500.
+A(s) provas de Habilidades Específicas, Matemática terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Interdisciplinar, História, Geografia terão peso de valor igual a 1. 
 
-Prioritárias
+## Artes Cênicas (Integral) (A)
+O curso de Artes Cênicas (Integral) (A) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, Língua Portuguesa e Literaturas de Língua Portuguesa, com a nota mínima de 500.
+A(s) provas de Habilidades Específicas, Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 3. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-NMO
+## Artes Visuais (Integral) (A)
+O curso de Artes Visuais (Integral) (A) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, História, com a nota mínima de 500.
+A(s) provas de Habilidades Específicas, Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 2. A(s) provas de Matemática terão peso de valor igual a 1. 
 
-Pesos
+## Ciências Econômicas (Integral)
+O curso de Ciências Econômicas (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, História, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-3
+## Ciências Econômicas (Noturno)
+O curso de Ciências Econômicas (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, História, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-2
+## Ciências Sociais (Integral) 
+O curso de Ciências Sociais (Integral)  tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-1
+## Ciências Sociais (Noturno) 
+O curso de Ciências Sociais (Noturno)  tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-Ciências Humanas/Artes
+## Comunicação Social - Midialogia (Integral)
+O curso de Comunicação Social - Midialogia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): História, Matemática, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-Administração (Noturno) (B)
+## Dança (Integral) (A)
+O curso de Dança (Integral) (A) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, Língua Portuguesa e Literaturas de Língua Portuguesa, com a nota mínima de 500.
+A(s) provas de Habilidades Específicas terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-LPL; MAT
+## Estudos Literários (Integral)
+O curso de Estudos Literários (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-400
+## Filosofia (Integral)
+O curso de Filosofia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 3. A(s) provas de Matemática, História terão peso de valor igual a 2. A(s) provas de Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-LPL; MAT
+## Geografia (Integral)
+O curso de Geografia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Geografia, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-HIS; GEO
+## Geografia (Noturno)
+O curso de Geografia (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Geografia, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-INTER
+## História (Integral)
+O curso de História (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-Administração Pública (Noturno) (B)
+## Licenciatura em Letras - Português (Integral)
+O curso de Licenciatura em Letras - Português (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-LPL; HIS
+## Licenciatura em Letras - Português (Noturno)
+O curso de Licenciatura em Letras - Português (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-400
+## Linguística (Integral)
+O curso de Linguística (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-LPL; MAT; HIS; GEO
+## Música: Composição (Integral) (A) 
+O curso de Música: Composição (Integral) (A)  tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, sem nota mínima.A(s) provas de Habilidades Específicas terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
--
+## Música Erudita: Instrumentos (Integral) (A) (D)
+O curso de Música Erudita: Instrumentos (Integral) (A) (D) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, sem nota mínima.A(s) provas de Habilidades Específicas terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-INTER
+## Música: Licenciatura (Integral) (A)
+O curso de Música: Licenciatura (Integral) (A) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, sem nota mínima.A(s) provas de Habilidades Específicas terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-Arquitetura e Urbanismo (Noturno) (A)
+## Música Popular: Instrumentos (Integral) (A) (E)
+O curso de Música Popular: Instrumentos (Integral) (A) (E) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, sem nota mínima.A(s) provas de Habilidades Específicas terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-HE
+## Música: Regência (Integral) (A)
+O curso de Música: Regência (Integral) (A) tem como prioritária(s) a(s) seguinte(s) prova(s): Habilidades Específicas, sem nota mínima.A(s) provas de Habilidades Específicas terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Matemática, História, Geografia, Interdisciplinar terão peso de valor igual a 1. 
 
-500
+## Pedagogia (Integral)
+O curso de Pedagogia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
-HE; MAT
+## Pedagogia (Noturno)
+O curso de Pedagogia (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, História, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, História, Geografia terão peso de valor igual a 3. A(s) provas de Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
--
-
-LPL; INTER; HIS; GEO
-
-Artes Cênicas (Integral) (A)
-
-HE; LPL
-
-500
-
-HE; LPL
-
--
-
-MAT; HIST; GEO; INTER
-
-Artes Visuais (Integral) (A)
-
-HE; HIS
-
-500
-
-HE; LPL; HIS; GEO
-
-INTER
-
-MAT
-
-Ciências Econômicas (Integral)
-
-MAT; HIS
-
-450
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Ciências Econômicas (Noturno)
-
-MAT; HIS
-
-450
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Ciências Sociais (Integral) 
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Ciências Sociais (Noturno) 
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Comunicação Social - Midialogia (Integral)
-
-HIS; MAT
-
-450
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Dança (Integral) (A)
-
-HE; LPL
-
-500
-
-HE
-
-LPL
-
-MAT; HIST; GEO; INTER
-
-Estudos Literários (Integral)
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Filosofia (Integral)
-
-LPL
-
-500
-
-LPL
-
-MAT; HIS
-
-GEO; INTER
-
-Geografia (Integral)
-
-LPL; GEO
-
-400
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Geografia (Noturno)
-
-LPL; GEO
-
-400
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-História (Integral)
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Licenciatura em Letras - Português (Integral)
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Licenciatura em Letras - Português (Noturno)
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Linguística (Integral)
-
-LPL; HIS
-
-500
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Música: Composição (Integral) (A)
-
- 
-
- 
-
- 
-
- 
-
-HE
-
- 
-
- 
-
- 
-
- 
-
--
-
- 
-
- 
-
- 
-
- 
-
-HE
-
- 
-
- 
-
- 
-
- 
-
-LPL
-
- 
-
- 
-
- 
-
-MAT; HIST; GEO; INTER
-
-Música Erudita: Instrumentos (Integral) (A) (D)
-
-Música: Licenciatura (Integral) (A)
-
-Música Popular: Instrumentos (Integral) (A) (E)
-
-Música: Regência (Integral) (A)
-
-Pedagogia (Integral)
-
-LPL; HIS
-
-400
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Pedagogia (Noturno)
-
-LPL; HIS
-
-400
-
-LPL; HIS; GEO
-
-MAT
-
-INTER
-
-Ciências Biológicas/Saúde
-
-Ciências Biológicas (Integral) 
-
-QUI; BIO
-
-450
-
-BIO; INTER
-
-LPL; MAT; QUI
-
--
-
-Ciências do Esporte (Integral) (B)
-
-LPL; BIO
-
-400
-
--
-
-LPL; MAT; QUI; BIO
-
-INTER
-
-Educação Física (Integral) 
-
-LPL; BIO
-
-450
-
-LPL; BIO
-
-INTER
-
-MAT; QUI
-
-Educação Física (Noturno)
-
-LPL; BIO
-
-450
-
-LPL; BIO
-
-INTER
-
-MAT; QUI
-
-Enfermagem (Integral)
-
-LPL; BIO
-
-450
-
-LPL; MAT; BIO
-
-QUI
-
-INTER
-
-Farmácia (Integral)
-
-QUI; BIO
-
-450
-
-LPL; MAT; QUI; BIO
-
--
-
-INTER
-
-Fonoaudiologia (Integral)
-
-LPL; BIO
-
-450
-
-LPL; BIO
-
-MAT; QUI; INTER
-
--
-
-Licenciatura em Ciências Biológicas (Noturno)
-
-QUI; BIO
-
-450
-
-BIO; INTER
-
-LPL; MAT; QUI
-
--
-
-Medicina - Unicamp (Integral)
-
-LPL; BIO
-
-550
-
-LPL; BIO
-
-MAT; QUI; INTER
-
--
-
-Nutrição (Integral) (B)
-
-LPL; BIO
-
-450
-
-LPL; BIO
-
-MAT; QUI; INTER
-
--
-
-Odontologia (Integral) (F)
-
-QUI; BIO
-
-400
-
-LPL; BIO
-
-MAT; QUI
-
-INTER
-
-Ciências Exatas/Tecnológicas
-
-Ciência da Computação (Noturno)
-
-MAT
-
-500
-
-MAT
-
-LPL; FIS
-
-QUI; INTER
-
-Curso 51: Engenharia Física/Física/Física Médica e Biomédica/ Matemática/Matemática Aplicada e Computacional (Integral) (C)
-
- 
-
- 
-
-MAT; FIS
-
- 
-
- 
-
-450
-
- 
-
- 
-
-MAT; FIS
-
- 
-
- 
-
-LPL; QUI
-
- 
-
- 
-
-INTER
-
-Engenharia Agrícola (Integral) 
-
-MAT; FIS
-
-450
-
-MAT; FIS
-
-LPL; QUI
-
-INTER
-
-Engenharia Ambiental (Noturno) (G)
-
-LPL; MAT
-
-500
-
-LPL; MAT; QUI; FIS
-
--
-
-INTER
-
-Engenharia Civil (Integral)
-
-MAT
-
-500
-
-LPL; MAT; FIS
-
-QUI
-
-INTER
-
-Engenharia de Alimentos (Integral) 
-
-LPL; MAT
-
-500
-
-LPL; MAT; QUI
-
-FIS
-
-INTER
-
-Engenharia de Alimentos (Noturno)
-
-LPL; MAT
-
-500
-
-LPL; MAT; QUI
-
-FIS
-
-INTER
-
-Engenharia de Computação (Integral)
-
-MAT
-
-550
-
-MAT
-
-LPL; FIS
-
-QUI; INTER
-
-Engenharia de Controle e Automação (Noturno)
-
-MAT; FIS
-
-500
-
-LPL; MAT; FIS
-
-QUI
-
-INTER
-
-Engenharia de Manufatura (Integral) (B)
-
-MAT; FIS
-
-450
-
-LPL; MAT; FIS; QUI
-
--
-
-INTER
-
-Engenharia de Produção (Integral) (B)
-
-MAT; FIS
-
-450
-
-LPL; MAT; FIS; QUI
-
--
-
-INTER
-
-Engenharia de Telecomunicações (Integral)
-
-MAT; FIS
-
-450
-
-LPL; MAT; FIS
-
-QUI
-
-INTER
-
-Engenharia de Transportes (Noturno) (G)
-
-MAT; FIS
-
-400
-
-MAT; FIS
-
-LPL; INTER; QUI
-
--
-
-Engenharia Elétrica (Integral)
-
-MAT; FIS
-
-450
-
-MAT; FIS
-
-LPL
-
-QUI; INTER
-
-Engenharia Elétrica (Noturno)
-
-MAT; FIS
-
-450
-
-MAT; FIS
-
-LPL
-
-QUI; INTER
-
-Engenharia Mecânica (Integral)
-
-MAT; FIS
-
-500
-
-LPL; MAT; FIS
-
-QUI
-
-INTER
-
-Engenharia Química (Integral) 
-
-MAT; FIS
-
-450
-
-LPL; MAT; FIS
-
-QUI
-
-INTER
-
-Engenharia Química (Noturno) 
-
-MAT; FIS
-
-450
-
-LPL; MAT; FIS
-
-QUI
-
-INTER
-
-Estatística (Integral)
-
-LPL; MAT
-
-500
-
-LPL; MAT
-
--
-
-FIS; QUI; INTER
-
-Geologia (Integral)
-
-MAT; QUI
-
-450
-
-LPL; MAT; FIS; QUI
-
--
-
-INTER
-
-Licenciatura em Física (Noturno)
-
-MAT; FIS
-
-400
-
-MAT; FIS
-
-LPL; QUI
-
-INTER
-
-Licenciatura em Matemática (Noturno)
-
-MAT; FIS
-
-450
-
-MAT; FIS
-
-LPL
-
-QUI; INTER
-
-Licenciatura Integrada Química/Física (Noturno)
-
-LPL; MAT
-
-400
-
--
-
-LPL; MAT; INTER
-
-QUI; FIS
-
-Química (Integral)
-
-QUI
-
-450
-
-LPL; MAT; FIS; QUI
-
--
-
-INTER
-
-Química Tecnológica (Noturno)
-
-QUI
-
-450
-
-LPL; MAT; FIS; QUI
-
--
-
-INTER
-
-Sistemas de Informação (Integral) (G)
-
-LPL; MAT
-
-400
-
--
-
-LPL; MAT
-
-INTER; FIS; QUI
-
-Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno) (G)
-
- 
-
-LPL; MAT
-
- 
-
-350
-
- 
-
--
-
- 
-
-LPL; MAT
-
- 
-
-INTER; FIS; QUI
-
-Tecnologia em Saneamento Ambiental (Noturno) (G)
-
-LPL; MAT
-
-350
-
-LPL; MAT; QUI
-
-FIS
-
-INTER
-
-(Retificações publicadas no DOE de 09/08/2023, pág. 59)
-
-* LPL - Língua Portuguesa e Literaturas de Língua Portuguesa; MAT - Matemática; HIS - História; GEO - Geografia; FIS - Física; QUI - Química; BIO - Biologia; HE - Habilidades Específicas.
+## Ciências Biológicas (Integral) 
+O curso de Ciências Biológicas (Integral)  tem como prioritária(s) a(s) seguinte(s) prova(s): Química, Biologia, com a nota mínima de 450.
+A(s) provas de Biologia, Interdisciplinar terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química terão peso de valor igual a 2. 
+
+## Ciências do Esporte (Integral) (B)
+O curso de Ciências do Esporte (Integral) (B) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química, Biologia terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Educação Física (Integral) 
+O curso de Educação Física (Integral)  tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 2. A(s) provas de Matemática, Química terão peso de valor igual a 1. 
+
+## Educação Física (Noturno)
+O curso de Educação Física (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 2. A(s) provas de Matemática, Química terão peso de valor igual a 1. 
+
+## Enfermagem (Integral)
+O curso de Enfermagem (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Biologia terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Farmácia (Integral)
+O curso de Farmácia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Química, Biologia, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química, Biologia terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Fonoaudiologia (Integral)
+O curso de Fonoaudiologia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia terão peso de valor igual a 3. A(s) provas de Matemática, Química, Interdisciplinar terão peso de valor igual a 2. 
+
+## Licenciatura em Ciências Biológicas (Noturno)
+O curso de Licenciatura em Ciências Biológicas (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Química, Biologia, com a nota mínima de 450.
+A(s) provas de Biologia, Interdisciplinar terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química terão peso de valor igual a 2. 
+
+## Medicina - Unicamp (Integral)
+O curso de Medicina - Unicamp (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 550.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia terão peso de valor igual a 3. A(s) provas de Matemática, Química, Interdisciplinar terão peso de valor igual a 2. 
+
+## Nutrição (Integral) (B)
+O curso de Nutrição (Integral) (B) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia terão peso de valor igual a 3. A(s) provas de Matemática, Química, Interdisciplinar terão peso de valor igual a 2. 
+
+## Odontologia (Integral) (F)
+O curso de Odontologia (Integral) (F) tem como prioritária(s) a(s) seguinte(s) prova(s): Química, Biologia, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Biologia terão peso de valor igual a 3. A(s) provas de Matemática, Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Ciência da Computação (Noturno)
+O curso de Ciência da Computação (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, com a nota mínima de 500.
+A(s) provas de Matemática terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Física terão peso de valor igual a 2. A(s) provas de Química, Interdisciplinar terão peso de valor igual a 1. 
+
+## Curso 51: Engenharia Física/Física/Física Médica e Biomédica/ Matemática/Matemática Aplicada e Computacional (Integral) (C)
+O curso de Curso 51: Engenharia Física/Física/Física Médica e Biomédica/ Matemática/Matemática Aplicada e Computacional (Integral) (C) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Agrícola (Integral) 
+O curso de Engenharia Agrícola (Integral)  tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Ambiental (Noturno) (G)
+O curso de Engenharia Ambiental (Noturno) (G) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química, Física terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Civil (Integral)
+O curso de Engenharia Civil (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Alimentos (Integral) 
+O curso de Engenharia de Alimentos (Integral)  tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química terão peso de valor igual a 3. A(s) provas de Física terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Alimentos (Noturno)
+O curso de Engenharia de Alimentos (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química terão peso de valor igual a 3. A(s) provas de Física terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Computação (Integral)
+O curso de Engenharia de Computação (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, com a nota mínima de 550.
+A(s) provas de Matemática terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Física terão peso de valor igual a 2. A(s) provas de Química, Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Controle e Automação (Noturno)
+O curso de Engenharia de Controle e Automação (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Manufatura (Integral) (B)
+O curso de Engenharia de Manufatura (Integral) (B) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física, Química terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Produção (Integral) (B)
+O curso de Engenharia de Produção (Integral) (B) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física, Química terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Telecomunicações (Integral)
+O curso de Engenharia de Telecomunicações (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia de Transportes (Noturno) (G)
+O curso de Engenharia de Transportes (Noturno) (G) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 400.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Interdisciplinar, Química terão peso de valor igual a 2. 
+
+## Engenharia Elétrica (Integral)
+O curso de Engenharia Elétrica (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Química, Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Elétrica (Noturno)
+O curso de Engenharia Elétrica (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Química, Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Mecânica (Integral)
+O curso de Engenharia Mecânica (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Química (Integral) 
+O curso de Engenharia Química (Integral)  tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Engenharia Química (Noturno) 
+O curso de Engenharia Química (Noturno)  tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física terão peso de valor igual a 3. A(s) provas de Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Estatística (Integral)
+O curso de Estatística (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 500.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática terão peso de valor igual a 3. A(s) provas de Física, Química, Interdisciplinar terão peso de valor igual a 1. 
+
+## Geologia (Integral)
+O curso de Geologia (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Química, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física, Química terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Licenciatura em Física (Noturno)
+O curso de Licenciatura em Física (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 400.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Química terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Licenciatura em Matemática (Noturno)
+O curso de Licenciatura em Matemática (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Matemática, Física, com a nota mínima de 450.
+A(s) provas de Matemática, Física terão peso de valor igual a 3. A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa terão peso de valor igual a 2. A(s) provas de Química, Interdisciplinar terão peso de valor igual a 1. 
+
+## Licenciatura Integrada Química/Física (Noturno)
+O curso de Licenciatura Integrada Química/Física (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Interdisciplinar terão peso de valor igual a 2. A(s) provas de Química, Física terão peso de valor igual a 1. 
+
+## Química (Integral)
+O curso de Química (Integral) tem como prioritária(s) a(s) seguinte(s) prova(s): Química, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física, Química terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Química Tecnológica (Noturno)
+O curso de Química Tecnológica (Noturno) tem como prioritária(s) a(s) seguinte(s) prova(s): Química, com a nota mínima de 450.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Física, Química terão peso de valor igual a 3. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
+
+## Sistemas de Informação (Integral) (G)
+O curso de Sistemas de Informação (Integral) (G) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 400.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar, Física, Química terão peso de valor igual a 1. 
+
+## Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno) (G)
+O curso de Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno) (G) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 350.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática terão peso de valor igual a 2. A(s) provas de Interdisciplinar, Física, Química terão peso de valor igual a 1. 
+
+## Tecnologia em Saneamento Ambiental (Noturno) (G)
+O curso de Tecnologia em Saneamento Ambiental (Noturno) (G) tem como prioritária(s) a(s) seguinte(s) prova(s): Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, com a nota mínima de 350.
+A(s) provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Química terão peso de valor igual a 3. A(s) provas de Física terão peso de valor igual a 2. A(s) provas de Interdisciplinar terão peso de valor igual a 1. 
 
 A. Curso com prova de Habilidades Específicas e que, portanto, só pode ser escolhido em primeira opção.
 
@@ -2978,145 +2642,82 @@ Art 7º Havendo vagas não preenchidas no curso de Música: Licenciatura, haver�
 
 # ANEXO V
 
-
 Cursos de graduação por área de realização da prova do Vestibular Unicamp. 
 
-Área: Ciências Humanas/Artes
-
+## Área: Ciências Humanas/Artes
+Os seguintes cursos fazem parte da área de Ciências Humanas/Artes:
 Administração (Noturno)
-
 Administração Pública (Noturno)
-
 Arquitetura e Urbanismo (Noturno)
-
 Artes Cênicas (Integral)
-
 Artes Visuais (Integral)
-
 Comunicação Social - Midialogia (Integral)
-
 Ciências Econômicas (Integral)
-
 Ciências Econômicas (Noturno)
-
 Ciências Sociais (Integral)
-
 Ciências Sociais (Noturno)
-
 Dança (Integral)
-
 Estudos Literários (Integral)
-
 Filosofia (Integral)
-
 Geografia (Integral)
-
 Geografia (Noturno)
-
 História (Integral)
-
 Letras - Licenciatura (Integral)
-
 Letras - Licenciatura (Noturno)
-
 Linguística (Integral)
-
 Música (Integral)
-
 Pedagogia - Licenciatura (Integral)
-
 Pedagogia - Licenciatura (Noturno)
-
  
 
-Área: Ciências Biológicas/Saúde
-
+## Área: Ciências Biológicas/Saúde
+Os seguintes cursos fazem parte da área de Ciências Biológicas/Saúde:
 Ciências Biológicas (Integral) 
-
 Ciências Biológicas - Licenciatura (Noturno)
-
 Ciências do Esporte (Integral)
-
 Educação Física (Integral) 
-
 Educação Física (Noturno)
-
 Enfermagem (Integral)
-
 Farmácia (Integral)
-
 Fonoaudiologia (Integral)
-
 Medicina (Integral)
-
 Nutrição (Integral)
-
 Odontologia (Integral)
 
  
-
-Área: Ciências Exatas/Tecnológicas
-
+## Área: Ciências Exatas/Tecnológicas
+Os seguintes cursos fazem parte da área de Ciências Exatas/Tecnológicas:
 Ciência da Computação (Noturno)
-
 Curso 51: Engenharia Física/Física/Física Médica e Biomédica/Matemática/Matemática Aplicada e Computacional (Integral)
-
 Engenharia Agrícola (Integral)
-
 Engenharia Ambiental (Noturno)
-
 Engenharia Civil (Integral)
-
 Engenharia de Alimentos (Integral) 
-
 Engenharia de Alimentos (Noturno)
-
 Engenharia de Computação (Integral)
-
 Engenharia de Controle e Automação (Noturno)
-
 Engenharia de Manufatura (Integral)
-
 Engenharia de Produção (Integral)
-
 Engenharia de Telecomunicações (Integral)
-
 Engenharia de Transportes (Noturno)
-
 Engenharia Elétrica (Integral)
-
 Engenharia Elétrica (Noturno)
-
 Engenharia Mecânica (Integral)
-
 Engenharia Química (Integral) 
-
 Engenharia Química (Noturno)
-
 Estatística (Integral)
-
 Física - Licenciatura (Noturno)
-
 Geologia (Integral)
-
 Licenciatura Integrada Química/Física (Noturno)
-
 Matemática - Licenciatura (Noturno)
-
 Química (Integral)
-
 Química Tecnológica (Noturno)
-
 Sistemas de Informação (Integral)
-
 Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno)
-
 Tecnologia em Saneamento Ambiental (Noturno)
-
  
 
  
-
 # ANEXO VI
 
 Candidatos(as) com deficiência ou em condições que exijam recursos específicos para realizar as provas do VU 2024
@@ -3172,14 +2773,17 @@ Através de outros recursos, a depender da necessidade comprovada.
 
 Redução Parcial da Taxa de Inscrição do VU 2024
 
-Art 1º No período compreendido entre 9 horas do dia 02 de agosto e 17 horas do dia 04 de agosto de 2023, a Comvest receberá solicitações de redução parcial da Taxa de Inscrição do VU 2024, prevista no artigo 15 desta Resolução, no valor de 50%, nos termos da Lei estadual nº 12.782, de 20 de dezembro de 2007. A solicitação será efetuada pelos(as) interessados(as) em formulário eletrônico, que estará disponível na página da Comvest (www.comvest.unicamp.br), desde que preencham, cumulativamente, os seguintes requisitos:
+## Art 1º 
+No período compreendido entre 9 horas do dia 02 de agosto e 17 horas do dia 04 de agosto de 2023, a Comvest receberá solicitações de redução parcial da Taxa de Inscrição do VU 2024, prevista no artigo 15 desta Resolução, no valor de 50%, nos termos da Lei estadual nº 12.782, de 20 de dezembro de 2007. A solicitação será efetuada pelos(as) interessados(as) em formulário eletrônico, que estará disponível na página da Comvest (www.comvest.unicamp.br), desde que preencham, cumulativamente, os seguintes requisitos:
 
 Sejam estudantes, assim considerados(as) os(as) que se encontrem regularmente matriculados(as) em:
 Uma das séries do Ensino Fundamental ou Médio.
 Curso pré-vestibular.
 Curso superior, em nível de graduação ou pós-graduação.
 Recebam remuneração mensal inferior a dois salários-mínimos, ou estejam desempregados(as).
-Art. 2º Os(as) candidatos(as) que solicitaram redução da taxa prevista no parágrafo anterior deverão fazer upload da documentação comprobatória, no momento do preenchimento do formulário eletrônico, na área de inscrito do(a) candidato(a), conforme especificado a seguir:
+
+## Art. 2º 
+Os(as) candidatos(as) que solicitaram redução da taxa prevista no parágrafo anterior deverão fazer upload da documentação comprobatória, no momento do preenchimento do formulário eletrônico, na área de inscrito do(a) candidato(a), conforme especificado a seguir:
 
 Para a comprovação da condição de estudante, será aceito um dos seguintes documentos recentes:
 Para a comprovação de renda, será aceito um dos seguintes documentos recentes:
@@ -3193,13 +2797,17 @@ Comprovantes de benefícios concedidos por Programas Sociais (por exemplo, Bolsa
 Para a comprovação da condição de desempregado(a), será aceito um dos seguintes documentos:
 Recibos de seguro-desemprego e do FGTS. 
 Documentos de rescisão do último contrato de trabalho, mesmo que temporário. No caso de contrato em carteira de trabalho, anexar ainda as cópias das páginas de identificação. 
-Art. 3º Serão considerados desempregados(as) os(as) candidatos(as) que, tendo estado empregados(as) em algum momento nos últimos 12 meses, estiverem sem trabalho no período da inscrição. 
+## Art. 3º 
+Serão considerados desempregados(as) os(as) candidatos(as) que, tendo estado empregados(as) em algum momento nos últimos 12 meses, estiverem sem trabalho no período da inscrição. 
 
-Art. 4º A lista dos(as) candidatos(as) beneficiados(as) pela redução parcial de taxa de 50% de que trata o § 2º será disponibilizada na página da Comvest (www.comvest.unicamp.br) no dia 14 de agosto de 2023.
+## Art. 4º 
+A lista dos(as) candidatos(as) beneficiados(as) pela redução parcial de taxa de 50% de que trata o § 2º será disponibilizada na página da Comvest (www.comvest.unicamp.br) no dia 14 de agosto de 2023.
 
-Art. 5º A inscrição no VU 2024, com redução parcial de Taxa de Inscrição, somente se efetivará com a realização do pagamento do valor correspondente a 50% da Taxa de Inscrição.
+## Art. 5º 
+A inscrição no VU 2024, com redução parcial de Taxa de Inscrição, somente se efetivará com a realização do pagamento do valor correspondente a 50% da Taxa de Inscrição.
 
-Art. 6º Os(as) candidatos(as) beneficiados(as) pela redução parcial da taxa de que trata o §2º deverão proceder à posterior inscrição no VU 2024, nos termos do art. 4 desta Resolução, sendo que o boleto bancário emitido ao final do preenchimento do Formulário de Inscrição já será impresso com o valor da redução. 
+## Art. 6º 
+Os(as) candidatos(as) beneficiados(as) pela redução parcial da taxa de que trata o §2º deverão proceder à posterior inscrição no VU 2024, nos termos do art. 4 desta Resolução, sendo que o boleto bancário emitido ao final do preenchimento do Formulário de Inscrição já será impresso com o valor da redução. 
 
 (Retificações publicadas no DOE de 09/08/2023, pág. 59)
 
