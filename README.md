@@ -50,7 +50,7 @@ A partir das respostas geradas, foi possível utilizar o LangChain para calcular
 2) Distância dos embeddings entre as respostas
 
 Essas métricas facilitam na automatização do processo, que pode gerar automáticamente gráficos de desempenho como o seguinte:
-![Respostas geradas](Imagens/screenshot5.png)
+![Gráfico de desempenho dos retrievers](Imagens/screenshot5.png)
 
 
 Todos esses testes foram realizados no notebook [retrievers.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/retrievers.ipynb).
@@ -59,3 +59,4 @@ Todos esses testes foram realizados no notebook [retrievers.ipynb](https://githu
 Toda a interface gráfica foi feita com componentes prontos do streamlit, que possui integração facilitada com o langchain. O deployment foi feito no streamlit cloud e disponiblizado no link:
 https://unicampvestibular2024.streamlit.app/
 
+![Interface gráfica do chatbot](Imagens/screenshot6.png)
