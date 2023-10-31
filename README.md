@@ -30,7 +30,32 @@ O LangChain foi utilizado para integração de todas as partes incluindo bibliot
 ## Transformação do documento
 As informações contidas na [página web](https://www.pg.unicamp.br/norma/31594/0) do documento fonte foram extraídas e transformadas em um arquivo de texto markdown, no qual foram acrescidas algumas tags para hierarquização de texto e devida identificação de capítulos e artigos do documento original. Algumas informações estavam contidas em formato tabular, tornando necessária a extração dessas informações e transformação para texto. Essas transformações foram feitas no notebook disponiblizado em [Nootebooks/anexos.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/anexos.ipynb).
 
-Foram utilizados duas classes disponiblizadas pelo LangChain para fazer a divisão do texto, primeiramente respeitando a semântica do arquivo markdown, para então dividir os trechos maiores em paragráfos ou sentenças. Esse processo, juntamente com o acesso a API da Pinecone está disponível em [Notebooks/embeddings.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/embeddings.ipynb). Nele, os vetores foram criados e armazenados no serviço de nuvem da Pinecone.
+Foram utilizados duas classes disponiblizadas pelo LangChain para fazer a divisão do texto, primeiramente respeitando a semântica do arquivo markdown, para então dividir os trechos maiores em paragráfos ou sentenças. Esse processo, juntamente com o acesso a API da Pinecone está disponível em [Notebooks/embeddings.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/embeddings.ipynb). Nele, os embeddings foram criados e armazenados no serviço de nuvem da Pinecone.
+
+## Avaliação dos Retrievers
+Com os embeddings prontos e devidamente armazenados, foi necessário escolher um módulo para a recuperação dos documentos. Como o LangChain disponibilizava diversos módulos, foi necessário a construção de uma métrica de avaliação para se verificar o desempenho dos diferentes algoritmos.
+
+Com o auxílio da [página](https://www.comvest.unicamp.br/informacoes-contato/perguntas-frequentes/) de dúvidas frequentes do site da comvest, foi construído um dataset com perguntas esperadas e a resposta de referência encontrada na nossa fonte de dados.
+![Tabela com as perguntas esperadas e modelos de respostas](Imagens/screenshot2.png)
+
+Para cada retriever foi passada uma query do conjunto de avaliação e os documentos recuperados foram guardados em uma tabela para serem posteriormente testados na geração de respostas:
+
+![Tabela com os documentos recuperados por cada modelo](Imagens/screenshot3.png)
+
+![Respostas geradas](Imagens/screenshot4.png)
+
+A partir das respostas geradas, foi possível utilizar o LangChain para calcular duas métricas automáticas:
+
+1) Distância de levenshtein entre as respostas
+2) Distância dos embeddings entre as respostas
+
+Essas métricas facilitam na automatização do processo, que pode gerar automáticamente gráficos de desempenho como o seguinte:
+![Respostas geradas](Imagens/screenshot5.png)
 
 
+Todos esses testes foram realizados no notebook [retrievers.ipynb](https://github.com/merovivant/AssistenteVestibular/blob/main/Notebooks/retrievers.ipynb).
+
+## Interface gráfica
+Toda a interface gráfica foi feita com componentes prontos do streamlit, que possui integração facilitada com o langchain. O deployment foi feito no streamlit cloud e disponiblizado no link:
+https://unicampvestibular2024.streamlit.app/
 
